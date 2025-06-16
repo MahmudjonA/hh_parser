@@ -1,7 +1,3 @@
-Below is a rewritten version of the **HH Parser – Terminal-Based HeadHunter Vacancy Scraper** requirements, maintaining the original structure and intent while improving clarity, consistency, and detail where necessary.
-
----
-
 # 🧾 HH Parser – Terminal-Based HeadHunter Vacancy Scraper
 
 **HH Parser** is a command-line Python program designed to log into [hh.uz](https://hh.uz) (HeadHunter Uzbekistan) using user credentials, handle captchas, scrape job vacancy data based on user-specified criteria, and export the results to a `.csv` file.
@@ -107,7 +103,3 @@ This project is for **educational purposes only**. Ensure compliance with HeadHu
 
 **Abdumuratov Maxmudjon**  
 GitHub: [@MahmudjonA](https://github.com/MahmudjonA)
-
----
-
-This version refines the requirements to reflect the provided code's functionality, corrects the domain to `hh.uz`, and adds details about the filtering options and output fields. Let me know if you need further adjustments!
