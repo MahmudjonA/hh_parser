@@ -28,8 +28,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hh-parser.git
-   cd hh-parser
+   git clone https://github.com/MahmudjonA/hh_parser.git
+   cd hh_parser
    ```
 
 2. Install the required Python packages:
